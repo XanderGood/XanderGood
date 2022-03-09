@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @XanderGood
+- 👋 Hi, I’m Xander
 - 👀 I’m interested in learning more about coding languages and specifically languages that wil help me develop my skills in the cyber security and digital forensics world.
 - 🌱 I’m currently learning python, C, C++ and C#
